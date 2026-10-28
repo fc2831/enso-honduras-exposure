@@ -32,7 +32,7 @@ Data and code for the Food Trade & Migration Analysis Project (CLMT G5047, Colum
 | `Prices.ipynb` | Loads and explores FPMA price series | Gemini (Google) |
 | `Migration.ipynb` | Combines CBP files, monthly Honduran encounters | Gemini (Google) |
 
-All code was run, reviewed and checked by the team. Cells we wrote or changed ourselves are marked `# written by us` or `# edited by us`.
+All code was run, reviewed and checked by the team.
 
 ## Status
 
